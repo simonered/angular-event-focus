@@ -26,4 +26,4 @@ angular.module('angular-event-focus', [])
         element.off(attr.eventFocus);
       });
     };
-  })
+  });
